@@ -1,1 +1,9 @@
-/* カスタマイズ用CSS */
+@charset "utf-8";
+/* フッターの背景色 */
+.ec-footerRole {
+    background:#9f9f9f;
+    color:black;
+}
+.ec-footerTitle {
+    font-family: 'Philosopher', Sans-Serif;
+}
